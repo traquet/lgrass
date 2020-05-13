@@ -146,5 +146,5 @@ def simpraise(plan_sim=None, id_scenario=0):
 timing = time.time()
 plan = pd.read_csv("inputs/plan_simulation.csv", sep=';')
 # simpraise(plan_sim=plan, id_scenario=0)
-runlsystem(plan, 0, 1)
+runlsystem(plan, 11, 1)
 print('Global execution time : ', time.time() - timing)

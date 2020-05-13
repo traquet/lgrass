@@ -10,3 +10,4 @@ h_cut_30;1500;inputs/meteo_controlled_conditions.csv;2018_11_13;treatment_1;400;
 h_cut_35;1500;inputs/meteo_controlled_conditions.csv;2018_11_13;treatment_1;400;1;21;True;True;False;False;False;False;False;False;35
 h_cut_40;1500;inputs/meteo_controlled_conditions.csv;2018_11_13;treatment_1;400;1;21;True;True;False;False;False;False;False;False;40
 h_cut_45;1500;inputs/meteo_controlled_conditions.csv;2018_11_13;treatment_1;400;1;21;True;True;False;False;False;False;False;False;45
+test;1350;inputs/meteo_controlled_conditions_ray.csv;2018_11_13;treatment_1;400;1;14;False;True;False;False;False;True;False;True;
